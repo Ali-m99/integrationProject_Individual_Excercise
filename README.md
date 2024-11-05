@@ -9,15 +9,15 @@ This project contains sorting functions implemented in Python. The goal was to p
 ## Features
 ### Integer Sorting (`integer-sort` branch)
 Implements a `bubbleSort` function that sorts a list of integers in ascending order using the bubble sort algorithm.  
-Inside the `integerationProject_excercise.py` file.
+Can be found inside the `integerationProject_excercise.py` file.
 
 ### String Sorting (`string-sort` branch)
 Implements a `sortStrings` function that sorts a list of strings in alphabetical order.  
-Inside the `integerationProject_excercise.py` file.  
+Can be found inside the `integerationProject_excercise.py` file.  
 
 ## Test Cases
-To ensure that each function works correctly, several test cases have been implemented using the `unittest` framework, provided by python.
-Inside the `test_sort_functions.py` file.
+To ensure that each function works correctly, several test cases have been implemented using the `unittest` framework, provided by python.  
+Can be found inside the `test_sort_functions.py` file.
 
 ## Running the Project
 1. Ensure Python is installed on your machine. 
