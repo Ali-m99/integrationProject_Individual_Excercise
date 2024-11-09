@@ -1,5 +1,5 @@
 
-
+#function for sorting integers
 def bubbleSort(nums):
     for i in range(len(nums)):
         for j in range(len(nums) - i - 1):
@@ -9,6 +9,7 @@ def bubbleSort(nums):
                 nums[j + 1] = temp
     return nums
 
+#function for sorting strings
 def sortStrings(array):
     for i in range(len(array)):
         for j in range(len(array) - i - 1):
